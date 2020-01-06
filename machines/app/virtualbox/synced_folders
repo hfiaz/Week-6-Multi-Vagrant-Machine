@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/app":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/Hussain Fiaz/Engineering47/week6/day1/MULTI_VAGRANT_MACHINE/environment/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Hussain Fiaz/Engineering47/week6/day1/MULTI_VAGRANT_MACHINE","disabled":false,"__vagrantfile":true}}}
